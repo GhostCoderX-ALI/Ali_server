@@ -20,7 +20,6 @@ queen key 👇🏻
 16665b4e-a2f1-4b90-9bb3-bcd853b2e2b6
 e29db64e-3c06-492e-84a2-f4d1ce49ed9a
 
-
 admin keys 👆🏻
 
 Queen member key
@@ -81,6 +80,10 @@ Queen friend key
 0285f92e-621d-4f43-9429-7cfb1a1ad973
 pending 23 march
 acdb25b4-afce-4e10-962d-7b32d7648c11😕
+
+24 march
+7262d33f-bd10-4f42-9fea-1597f9e25fae
+
 
 
 22 mar
