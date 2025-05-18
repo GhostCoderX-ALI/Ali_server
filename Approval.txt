@@ -43,8 +43,8 @@ learner
 
 training session 
 adfa2f8b-4dc3-45d7-b943-82b0935e4ff7
-
-
+pending 
+9a10979d-56c2-4df6-8334-b093b4f06e21
 
 trail 1 hour 
 5289b8af-1779-4b02-8978-014244b8a456
