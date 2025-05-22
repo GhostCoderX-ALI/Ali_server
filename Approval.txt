@@ -46,7 +46,8 @@ c2a1fce9-1ac2-441f-aa98-3f0c125a5e99
 7fbae3a0-583c-4025-941a-26c7269ddd83
 learner
 9c42d058-acec-4514-a76a-f63b894719a8
-
+hamzo
+c16f121d-d6bb-4561-9544-451310a097cd
 training session 
 adfa2f8b-4dc3-45d7-b943-82b0935e4ff7
 pending 
