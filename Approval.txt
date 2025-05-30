@@ -22,8 +22,7 @@ c2a1fce9-1ac2-441f-aa98-3f0c125a5e99
 6d3d3bcb-a7b2-421d-a31b-8a0ef3e76d27
 21 may 15 days
 115802b4-03fd-46b8-8668-671ac775ee90
-7ppm
-afddc606-8c07-42b6-af47-31836f2b2aa3 
+
 24 may
 122cdc48-184f-4aa8-b781-146e2640932a
 18 may 
@@ -35,7 +34,7 @@ mukhtiar
 ainraza
 73292727-b9ba-4547-b0fd-ea77ba768abf
 15 may
-7eff0b22-8c86-45b7-b619-d1d84378078e
+7eff0b22-8c86-45b7-b619-d1d84378078e 
 hassan
 9a10979d-56c2-4df6-8334-b093b4f06e21
 dcd0e0c8-038b-4fce-a755-311b00831d0e
@@ -43,9 +42,9 @@ dcd0e0c8-038b-4fce-a755-311b00831d0e
 baloch pending
 82ec2c35-a95c-47fc-8374-5395b2f0b75a
 evening. 28 may 5pm
-b064d150-e85f-4d81-9442-d26b2ee794bf
+b064d150-e85f-4d81-9442-d26b2ee794bf 
 4e captin pending 28 may 
-06b0be11-2866-4b4e-b319-9fd014f8560a
+06b0be11-2866-4b4e-b319-9fd014f8560a 
 bang user free
 78548baf-df39-4d6c-be10-520114da2137
 tester
